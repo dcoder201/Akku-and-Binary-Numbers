@@ -34,7 +34,7 @@ if __name__ == '__main__':
         L, R = map(int,input().split())
         ans = ob.solve(L, R);
         print(ans)
-
+# test
 
 
 
